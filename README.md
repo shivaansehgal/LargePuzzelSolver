@@ -2,8 +2,10 @@
 ## Project: Dip Chick
 The task of this project is to create a genetic Algorithm based Puzzle Solver for large number of pixels.
 
-## Link to Github Repository
-https://github.com/Digital-Image-Processing-IIITH/dip-project-dip-chick
+<p align="center">
+<img src="https://github.com/Digital-Image-Processing-IIITH/dip-project-dip-chick/blob/main/Generation%20wise%20results/gas_cloud.gif" > <br>
+<!-- <img src="https://github.com/Digital-Image-Processing-IIITH/dip-project-dip-chick/blob/main/Generation%20wise%20results/flower.gif" > -->
+</p>
 
 ## Contents
 1. Requirements
